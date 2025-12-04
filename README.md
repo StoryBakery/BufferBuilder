@@ -1,6 +1,6 @@
 # BufferBuilder
 
-Story-Bakery가 배포하는 Luau 라이브러리입니다.
+StoryBakery가 배포하는 Luau 라이브러리입니다.
 
 - 패키지 이름: `story_bakery/buffer_builder`
 - 엔트리: `init.luau`
