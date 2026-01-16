@@ -1,4 +1,4 @@
-name = "story_bakery/buffer_builder"
+name = "storybakery/buffer_builder"
 version = "0.1.0"
 license = "MIT"
 includes = [
