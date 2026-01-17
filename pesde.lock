@@ -135,7 +135,7 @@ direct = ["BufferReader", { repo = "https://github.com/StoryBakery/BufferReader"
 [graph."storybakery/buffer_reader@0.1.0 roblox".pkg_ref]
 ref_ty = "git"
 repo = "https://github.com/StoryBakery/BufferReader"
-tree_id = "0989c7019edc76d6d4ea127f25bf547905ce5ced"
+tree_id = "c0934e541f325aeedcd35be75cdc1e5ed27fbe6f"
 new_structure = true
 
 [graph."storybakery/buffer_reader@0.1.0 roblox".pkg_ref.dependencies]
